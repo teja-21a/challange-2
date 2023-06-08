@@ -1,0 +1,3 @@
+number1 = int(input("enter the number"))
+number2 = int(input("enter the number"))
+height = int(input("enter the number"))
